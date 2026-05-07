@@ -1,0 +1,3 @@
+cd "E:\projects\slms_project_complete (1)\slms_full"
+venv\Scripts\activate
+python manage.py runserver
